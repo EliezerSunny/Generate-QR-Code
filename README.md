@@ -13,6 +13,9 @@ pip install qrcode[pil]
 https://github.com/EliezerSunny/Generate-QR-Code.git
 ```
 ```sh
+cd Generate-QR-Code
+```
+```sh
 python generate_qrcode.py
 ```
 
